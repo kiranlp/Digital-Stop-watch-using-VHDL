@@ -133,6 +133,3 @@ _Add your simulation waveform screenshots and trainer kit photos here:_
 Electronics & Communication Engineering | Embedded Systems & VLSI
 Bapuji Institute of Engineering & Technology, 
 
-- LinkedIn: [your-linkedin-url]
-- Portfolio: [your-portfolio-url]
-
