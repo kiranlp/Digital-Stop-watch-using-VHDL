@@ -136,6 +136,3 @@ Bapuji Institute of Engineering & Technology,
 - LinkedIn: [your-linkedin-url]
 - Portfolio: [your-portfolio-url]
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
